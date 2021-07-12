@@ -43,7 +43,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{CDF6F47D-99A6-43A4-BD48-1CDD43904363}</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Modbus API.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Windows/Modbus API.lvlibp</Property>
@@ -365,7 +365,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D0CE514C-D2CE-45CB-BE61-F9E6889DAA68}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/Linux_x64</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Modbus API.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/Linux_x64/Modbus API.lvlibp</Property>
