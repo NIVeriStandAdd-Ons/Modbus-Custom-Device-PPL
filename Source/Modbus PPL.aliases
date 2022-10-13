@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "169.254.111.29"
+My Computer = "172.22.230.8"
 
 [RT CompactRIO Target]
 RT CompactRIO Target = "0.0.0.0"
@@ -7,6 +7,8 @@ RT CompactRIO Target = "0.0.0.0"
 [RT CompactRIO Target - Linux ARM]
 RT CompactRIO Target - Linux ARM = "0.0.0.0"
 
+[RT PXI Target]
+RT PXI Target = "0.0.0.0"
+
 [RT PXI Target - Pharlap]
 RT PXI Target - Pharlap = "0.0.0.0"
-
